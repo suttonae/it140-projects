@@ -7,25 +7,24 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Mario's Mushroom Kingdom Adventure. My text-based adventure game is based on the world of Super Mario Bros.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+The player takes the role of Mario, who must travel through the Mushroom Kingdom and prepare to face Bowser. Bowser has taken over his castle and is threatening the Mushroom Kingdom. Before Mario can safely enter Bowser's Castle, he must explore the different rooms and collect six useful Mario items: a Super Mushroom, Fire Flower, Super Star, 1-Up Mushroom, Super Leaf, and Coin. Mario wins by collecting all six items before entering Bowser's Castle. If Mario enters Bowser's Castle before collecting every item, he encounters Bowser too early and loses the game.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Peach's Castle - Starting room; no item
+2. Toad House - Contains the 1-Up Mushroom
+3. Lava Castle Gate - Contains the Super Star
+4. Underground Cavern - Contains the Super Mushroom
+5. Ghost House - Contains the Super Leaf
+6. Koopa Beach - Contains the Fire Flower
+7. Coin Heaven - Contains the Coin
+8. Bowser's Castle - Contains Bowser, the villain; no item
 
 Add more rooms if your design needs them.
 
@@ -34,19 +33,19 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. 1-Up Mushroom
+2. Super Star
+3. Super Mushroom
+4. Super Leaf
+5. Fire Flower
+6. Coin
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The villain is Bowser, the King of the Koopas and Mario's enemy. Bowser waits inside Bowser's Castle. Mario should not enter Bowser's Castle until all six items have been added to the inventory.
 
 ## Storyboard and Map Check
 
