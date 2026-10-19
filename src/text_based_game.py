@@ -24,7 +24,7 @@ def show_status(current_room, inventory, rooms):
 
 
 def main():
-    """Run the game until Mario wins or loses against Bowser."""
+       """Run the game until Mario wins or loses against Bowser."""
     # Room connections and items match the Project One storyboard.
     rooms = {
         "Peach's Castle": {
@@ -110,8 +110,8 @@ def main():
                 print("You needed all 6 items before facing Bowser.")
 
             print("Thanks for playing Mario's Mushroom Kingdom Adventure!")
+            input("Press Enter to close the game...")
             break
-
 
 if __name__ == "__main__":
     main()
